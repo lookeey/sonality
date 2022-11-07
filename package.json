@@ -1,0 +1,12 @@
+{
+  "name": "sonality",
+  "version": "0.0.1",
+  "description": "A customizable React UI framework to match your personality.",
+  "private": true,
+  "workspaces": [
+    "pkg/*"
+  ],
+  "repository": "https://github.com/lookeey/sonality",
+  "author": "lookeey <loo.kees@proton.me>",
+  "license": "MIT"
+}
